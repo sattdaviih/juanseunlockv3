@@ -1,1 +1,6 @@
-opaq
+-install minecraft for windows from microsoft
+-execute game and close
+-install the folder by repository
+-execute the .exe
+-install the .exe
+-be happy
